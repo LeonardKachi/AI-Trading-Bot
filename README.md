@@ -25,7 +25,7 @@ An AI-powered trading bot that combines news sentiment analysis with machine lea
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/LeonardKachi/AI-Trading-Bot.git
