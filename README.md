@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 1. Open `config.py`
 2. Add your **API keys**, model paths, and trading parameters
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📈 Usage
+## Usage
 
 * **Backtesting**
 
@@ -67,7 +67,7 @@ python news_monitor.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 * `data_collection.py`: Pulls data from financial and news APIs
 * `news_sentiment.py`: Classifies news headlines into sentiment scores
@@ -85,14 +85,14 @@ python news_monitor.py
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 > This bot is for **educational purposes** only.
 > Use it at your own risk — the author is not responsible for any financial losses.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **Unlicense** – free for personal or commercial use. No restrictions.
 
